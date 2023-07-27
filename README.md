@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🎓 I’m pursuing my Bachelors in Computer Science & Engineering. 👨‍Web 3.0 and Blockchain are my power and 💻 DevOps , Web Dev, Machine Learning, Blockchain ,problem solving & other techs are ❤️❤️.
 <!--
 **tribanj/tribanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
