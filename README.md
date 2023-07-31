@@ -2,8 +2,9 @@
 <h3 align="center">A passionate full Stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tribanj&label=Profile%20views&color=0e75b6&style=flat" alt="tribanj" /> </p>
+- 🔭 I’m a computer science  student 
 
-- 🔭 I’m currently working on student **blockchain**
+- 🔭 I’m currently working on **blockchain**
 
 - 🌱 I’m currently learning **blockchain technology, Solidity**
 
