@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **blockchain technology, Solidity**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [(https://tribhuwanportfolio.netlify.app/)]([portfolio])
 
 - 📫 How to reach me **tribhuwanja@gmail.com**
 
