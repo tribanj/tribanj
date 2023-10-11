@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tribhuwan Kumar</h1>
 <h3 align="center">A passionate MERN Stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tribanj&label=Profile%20views&color=0e75b6&style=flat" alt="tribanj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tribanj&label=Profile%20views&color=0e75b6&style=flat" alt="tribanj" width="50" /> </p>
 - 🔭 I’m a computer science  student 
 
 - 🔭 I’m currently working on **blockchain**
