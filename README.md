@@ -4,11 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tribanj&label=Profile%20views&color=0e75b6&style=flat" alt="tribanj" /> </p>
 - 🔭 I’m a computer science  student 
 
-- 🔭 I’m currently working on **blockchain**
 
 - 🌱 I’m currently learning **blockchain technology, Solidity**
 
-- 👨‍💻 All of my projects are available at [(https://tribhuwanportfolio.netlify.app)]([portfolio])
+- 👨‍💻 All of my projects are available at [(https://tribhuwanm.vercel.app)]([portfolio])
 
 - 📫 How to reach me **tribhuwanja@gmail.com**
 
